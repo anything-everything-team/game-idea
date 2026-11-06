@@ -1,0 +1,12 @@
+# Godot cache / editor state
+.godot/
+*.tmp
+
+# Export output
+build/
+
+# Export credentials are stored separately by Godot 4.3+; never commit them
+.godot/export_credentials.cfg
+
+# Python bytecode
+__pycache__/
